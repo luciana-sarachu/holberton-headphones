@@ -6,7 +6,7 @@ You won’t have a lot of instruction, you are free to implement it the way that
 
 Here the final result:
 
-![headphones](./images/hweadphones.jpg)
+![headphones](./images/headphones.jpg)
 
 *This webpage has been designed by Nicolas Philippot, UI/UX designer.*
 
