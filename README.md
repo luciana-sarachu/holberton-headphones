@@ -6,7 +6,7 @@ You won’t have a lot of instruction, you are free to implement it the way that
 
 Here the final result:
 
-![headphones](https://holbertonintranet.s3.amazonaws.com/uploads/medias/2020/2/60df485eb772ecbad54a.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIARDDGGGOUWMNL5ANN%2F20210824%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20210824T023659Z&X-Amz-Expires=86400&X-Amz-SignedHeaders=host&X-Amz-Signature=ffe404f701d20a98d31b3d1c3585e72f4c229015aec2434d4a9ca0e5ee81d1e1)
+![headphones](./images/hweadphones.jpg)
 
 *This webpage has been designed by Nicolas Philippot, UI/UX designer.*
 
@@ -54,11 +54,11 @@ Here an archive of all assets needed: images_0x09.zip
 
 Desktop:
 
-![desktop](https://holbertonintranet.s3.amazonaws.com/uploads/medias/2020/3/4a93441c93989ad7ea72.gif?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIARDDGGGOUWMNL5ANN%2F20210824%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20210824T023659Z&X-Amz-Expires=86400&X-Amz-SignedHeaders=host&X-Amz-Signature=7dbf311f3a8e2a7076f47612f4db497d5976ee3a7b9c2c3b07df5838517b0b7c)
+![desktop](./images/desktop.gif)
 
 Mobile:
 
-![mobile](https://holbertonintranet.s3.amazonaws.com/uploads/medias/2020/3/75a582f98640445a2dbf.gif?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIARDDGGGOUWMNL5ANN%2F20210824%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20210824T023659Z&X-Amz-Expires=86400&X-Amz-SignedHeaders=host&X-Amz-Signature=3478f0ababd79cff4f57447c2ca24ec0fb1457d3f6946058d053b6fe962d3959)
+![mobile](./images/mobile.gif)
 
 **2. "What we do..." section**
 
@@ -96,11 +96,11 @@ When you are done, here the result:
 
 Desktop:
 
-![final_desktop](https://holbertonintranet.s3.amazonaws.com/uploads/medias/2020/3/3b5a9f7948a58d58bd43.gif?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIARDDGGGOUWMNL5ANN%2F20210824%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20210824T023659Z&X-Amz-Expires=86400&X-Amz-SignedHeaders=host&X-Amz-Signature=390322d3cf3d7f3ca677641bfbac039e6c6ada7912c332604aa43a77368344b1)
+![final_desktop](./images/final_desktop.gif)
 
 Mobile:
 
-![final_mobile](https://holbertonintranet.s3.amazonaws.com/uploads/medias/2020/3/83d6311e87d4775ca4b3.gif?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIARDDGGGOUWMNL5ANN%2F20210824%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20210824T023659Z&X-Amz-Expires=86400&X-Amz-SignedHeaders=host&X-Amz-Signature=2a08103006d62758f7f5e7ba5e500228da1cdde6ebd842969f328bf1f5cd3262)
+![final_mobile](./images/final_mobile.gif)
 
 
 
